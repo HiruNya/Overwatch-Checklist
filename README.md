@@ -28,4 +28,4 @@ I want to make my own event file / wishlist, how can I do this?
 - Open "tools/Event_Editor.pyw" and use that to create your file.
 Files made from this program should work but you can also try to make one by hand or by another program as this merely follows the YAML syntax.
 
-Have any feedback you would like to give me? I would be happy to hear it!
+Have any suggestions or feedback you would like to give me? I would be happy to hear it!
